@@ -1,1 +1,1 @@
-# Object-detection-with-voice-output-using-yolo
+Download weights file from https://pjreddie.com/darknet/yolo/
